@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AlansPy23
+- 👀 I’m interested in ...
+- Programacion 
+- 🌱 I’m currently learning ...
+- Python 
+- 💞️ I’m looking to collaborate on ...
+- Prpyectos y tambien para aprender
+- 📫 How to reach me ...
+- ..
+<!---
+AlansPy23/AlansPy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
